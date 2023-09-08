@@ -2,4 +2,4 @@
 
 Internship task-1 level-1 done by Aman Patel 
 
-you can visit this at : - https://amanpatel2529.github.io/OIBGRIP-task-1-level-1.github.io/
+you can visit this at : - https://amanpatel2529.github.io/SITL.github.io/
